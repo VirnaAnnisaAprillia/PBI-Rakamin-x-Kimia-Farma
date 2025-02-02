@@ -26,7 +26,7 @@ Proyek ini bertujuan untuk **menganalisis kinerja bisnis Kimia Farma dari tahun 
 1. **Import Data**  
 2. **Tabel Analisa**  
 3. **BigQuery Syntax**  
-4. **Dashboard** 
+4. **Dashboard Performance Analytics** 
 
 ## 🔎 Hasil & Insight  
 - **Tren Pendapatan:** Mengalami fluktuasi, dengan peningkatan signifikan pada **2022**, tetapi mengalami penurunan di **2021 dan 2023**.  
@@ -39,9 +39,9 @@ Proyek ini bertujuan untuk **menganalisis kinerja bisnis Kimia Farma dari tahun 
 
 ## 📊 Dashboard & Query  
 ### 🔗 Link Penting  
-- 📊 **Dashboard Looker Studio:** [bit.ly/KimiaFarmaDashboard](https://bit.ly/KimiaFarmaDashboard)  
-- 💾 **Repository GitHub:** [bit.ly/KimiaFarmaRepo](https://bit.ly/KimiaFarmaRepo)  
-- 📄 **PDF Power Point:** [bit.ly/KimiaFarmaRepo](https://bit.ly/KimiaFarmaRepo)  
+- 📊 **Dashboard Looker Studio:** https://bit.ly/Rakamin_PBIKF_LookerStudio_Virna
+- 💾 **Repository GitHub:** https://bit.ly/Rakamin_PBIKF_Github_Virna
+- 📄 **PDF Power Point:** https://bit.ly/Rakamin_PBIKF_PDF_PPT_Virna
 
 ---
 
